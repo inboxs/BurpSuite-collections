@@ -2,7 +2,14 @@
 
 #### BurpSuite 相关收集项目，插件主要是非BApp Store（商店）
 
-### burpsuite crack 破解: [传送门](./crack.md)(有能力请支持正版，本项目仅用于学习研究使用！)  
+> 所有的破解汉化或者使用burpsuite都是在你配置好了Java环境的前提下！！！[相关教程](./books/如何在64位Windows%2010下安装java开发环境.pdf)  
+
+### burpsuite pro 1.37 crack 破解: [中文版](./books/burpsuite破解-汉化-使用指导.docx) [英文版](./crack.md)    
+
+### 打包了基本的burp,插件和汉化包等: [下载](https://github.com/Mr-xn/BurpSuite-collections/releases)  
+### [BurpSuite_pro_v2.1破解版.rar](https://mir.cr/1XKFLGFW)
+### [Burp_Suite_Pro_v2.1.04_Loader_Keygen](https://mir.cr/MZVYTZIL)
+> (有能力请支持正版，本项目仅用于学习研究使用！)  
 
 ### [渗透测试面试问题2019版](渗透测试面试问题2019版.md)
 <details>
@@ -90,6 +97,8 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **httpsmuggler.jar** --- 一款辅助绕过WAF的插件，[详细说明](https://github.com/nccgroup/BurpSuiteHTTPSmuggler)
+- **http-request-smuggler-all.jar** ---HTTP走私攻击检查插件，相关文章：[记一次走私请求学习](https://xz.aliyun.com/t/6299)
 - **sqlmap4burp-plus-plus-0.1-jar-with-dependencies.jar** ---多平台无需外部依赖的burp联动sqlmap插件，使用也很简单，导入在burp拦截的请求里或者重放都可以直接发送到sqlmap4burp界面，第一次需要选择sqlmap.py文件位置进行设置，详细的可以看[飘雪表哥-c0ny1源处](https://github.com/c0ny1/sqlmap4burp-plus-plus)。
 - **passive-scan-client-0.1-jar-with-dependencies.jar** --- Burp被动扫描流量转发插件,比如搭配长亭的[`XRAY`](https://github.com/chaitin/xray)来进行被动扫描，借用群里表哥的话:~~挂着坐收洞~~。[详细说明](https://github.com/c0ny1/passive-scan-client/blob/master/README.md),演示动图: ![](./img/passive-scan-client-0.1-jar-with-dependencies.gif)
 
